@@ -1,0 +1,18 @@
+body {
+    padding: 0 3em;
+}
+img {
+    display: block;
+}
+img#jigoro-kano {
+    height: 30em;
+    margin:3em auto;
+}
+
+img#logotipo {
+    height: 15em;
+    margin: 0 auto;
+}
+h2 {
+    margin-top:1em
+}
